@@ -1,0 +1,14 @@
+- Docker composer file for v0.10.2
+
+- Needs the nginx folder inside the /root/
+- Needs MinIO and auth
+    - s3.domain.comp
+    - minio.domain.com
+- Needs postgreSQL and redis
+    - Check auth
+- Needs a Volumes 
+    - dify_storage
+    - dify_weaviate
+    
+- Check the networks name
+- Check in compose file any "VERIFICAR"
