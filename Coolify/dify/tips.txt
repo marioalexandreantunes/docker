@@ -1,0 +1,3 @@
+https://github.com/coollabsio/coolify/blob/main/templates/compose/dify.yaml
+
+https://github.com/langgenius/dify/blob/main/docker/docker-compose.yaml
