@@ -1,3 +1,19 @@
 https://github.com/coollabsio/coolify/blob/main/templates/compose/dify.yaml
 
 https://github.com/langgenius/dify/blob/main/docker/docker-compose.yaml
+
+https://www.youtube.com/watch?v=vyDiLwlRFfk
+
+# What to change
+
+## ENV Variables:
+
+APP_API_URL = https://dify.api.app.yourdomain.com
+APP_WEB_URL = https://dify.yourdomain.com
+CONSOLE_API_URL = https://dify.console.api.yourdomain.com
+CONSOLE_WEB_URL = https://dify.console.yourdomain.com
+SERVICE_API_URL = https://dify.api.yourdomain.com
+INIT_PASSWORD= SECURE-PASSWORD
+SECRET_KEY = sk-9f73SECRETKEYDFKADF3BlbkFJLK7U
+WEB_API_CORS_ALLOW_ORIGINS = https://dify.yourdomain.com
+CONSOLE_CORS_ALLOW_ORIGINS = https://dify.console.yourdomain.com
